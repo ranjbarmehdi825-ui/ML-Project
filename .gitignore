@@ -1,0 +1,12 @@
+# Ignore Data Files
+*.csv
+*.zip
+*.rar
+*.pkl
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore System Files
+.DS_Store
